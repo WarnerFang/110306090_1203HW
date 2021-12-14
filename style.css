@@ -32,7 +32,7 @@ div.float{
 div.background{
 	background-image: url('sky.jpg');
 	width: 2000px;
-	height: 500px;
+	height: 400px;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	border: 1px solid red;
@@ -40,7 +40,7 @@ div.background{
 }
 .img{
 	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 550px;
+	height: 300px;
+	margin-left: 28%;
 	border: 1px solid greenyellow;
 }
