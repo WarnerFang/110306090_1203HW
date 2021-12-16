@@ -18,16 +18,18 @@ div.margin-left{
 	border: 1px solid black;
 	position: absolute;
 	margin-left: 150px;
-	margin-right: 900px;
+	
 	
 }
 div.margin-right{
-	border: 1px solid black;	
+	border: 1px solid black;
+	margin-top: 100px;	
 	margin-left: 900px;
 	margin-right: 150px;
 }
 div.float{
 	padding-left: 50%;
+	padding-top: 500px;
 }
 div.background{
 	background-image: url('sky.jpg');
